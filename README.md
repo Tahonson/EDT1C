@@ -80,14 +80,14 @@
 
 <details>
 <summary>Видео-нарезка: старт и настройка EDT</summary>
-<a href="https://www.youtube.com/watch?v=V441Ih3T3NE&t=0s"><img src="https://img.youtube.com/vi/V441Ih3T3NE/0.jpg" alt="Видео: старт и настройка EDT" /></a>
+<a href="https://www.youtube.com/watch?v=V441Ih3T3NE&t=0s"><img src="https://img.youtube.com/vi/V441Ih3T3NE/hqdefault.jpg" alt="Видео: старт и настройка EDT" width="900" /></a>
 </details>
 
 ### 1.2 Использование автопродолжения кода (Автокомплит)
 
 <details>
 <summary>Видео-нарезка: 1С:Напарник (автокомплит)</summary>
-<a href="https://www.youtube.com/watch?v=V441Ih3T3NE&t=2271s"><img src="https://img.youtube.com/vi/V441Ih3T3NE/0.jpg" alt="Видео: 1С:Напарник (автокомплит)" /></a>
+<a href="https://www.youtube.com/watch?v=V441Ih3T3NE&t=2271s"><img src="https://img.youtube.com/vi/V441Ih3T3NE/hqdefault.jpg" alt="Видео: 1С:Напарник (автокомплит)" width="900" /></a>
 </details>
 
 Алгоритм работы:
@@ -104,7 +104,7 @@
 
 <details>
 <summary>Видео-нарезка: 1С:Напарник (генерация по промпту)</summary>
-<a href="https://www.youtube.com/watch?v=V441Ih3T3NE&t=2271s"><img src="https://img.youtube.com/vi/V441Ih3T3NE/0.jpg" alt="Видео: 1С:Напарник (генерация по промпту)" /></a>
+<a href="https://www.youtube.com/watch?v=V441Ih3T3NE&t=2271s"><img src="https://img.youtube.com/vi/V441Ih3T3NE/hqdefault.jpg" alt="Видео: 1С:Напарник (генерация по промпту)" width="900" /></a>
 </details>
 
 Алгоритм генерации:
@@ -185,7 +185,7 @@
 
 <details>
 <summary>Видео-нарезка: Cursor (MCP/IDE)</summary>
-<a href="https://www.youtube.com/watch?v=V441Ih3T3NE&t=2562s"><img src="https://img.youtube.com/vi/V441Ih3T3NE/0.jpg" alt="Видео: Cursor (MCP/IDE)" /></a>
+<a href="https://www.youtube.com/watch?v=V441Ih3T3NE&t=2562s"><img src="https://img.youtube.com/vi/V441Ih3T3NE/hqdefault.jpg" alt="Видео: Cursor (MCP/IDE)" width="900" /></a>
 </details>
 
 Алгоритм настройки рабочей области:
@@ -247,7 +247,7 @@
 
 <details>
 <summary>Видео-нарезка: доработка расширения</summary>
-<a href="https://www.youtube.com/watch?v=V441Ih3T3NE&t=1795s"><img src="https://img.youtube.com/vi/V441Ih3T3NE/0.jpg" alt="Видео: доработка расширения" /></a>
+<a href="https://www.youtube.com/watch?v=V441Ih3T3NE&t=1795s"><img src="https://img.youtube.com/vi/V441Ih3T3NE/hqdefault.jpg" alt="Видео: доработка расширения" width="900" /></a>
 </details>
 
 Алгоритм перехвата метода:
@@ -272,7 +272,7 @@
 
 <details>
 <summary>Видео-нарезка: внешняя обработка</summary>
-<a href="https://www.youtube.com/watch?v=V441Ih3T3NE&t=1636s"><img src="https://img.youtube.com/vi/V441Ih3T3NE/0.jpg" alt="Видео: внешняя обработка" /></a>
+<a href="https://www.youtube.com/watch?v=V441Ih3T3NE&t=1636s"><img src="https://img.youtube.com/vi/V441Ih3T3NE/hqdefault.jpg" alt="Видео: внешняя обработка" width="900" /></a>
 </details>
 
 Алгоритм:
@@ -299,7 +299,7 @@
 
 <details>
 <summary>Видео-нарезка: Git в EDT</summary>
-<a href="https://www.youtube.com/watch?v=V441Ih3T3NE&t=814s"><img src="https://img.youtube.com/vi/V441Ih3T3NE/0.jpg" alt="Видео: Git в EDT" /></a>
+<a href="https://www.youtube.com/watch?v=V441Ih3T3NE&t=814s"><img src="https://img.youtube.com/vi/V441Ih3T3NE/hqdefault.jpg" alt="Видео: Git в EDT" width="900" /></a>
 </details>
 
 Алгоритм инициализации:
@@ -373,7 +373,7 @@
 
 <details>
 <summary>Видео-нарезка: обновление базы (в конфигураторе)</summary>
-<a href="https://www.youtube.com/watch?v=V441Ih3T3NE&t=2010s"><img src="https://img.youtube.com/vi/V441Ih3T3NE/0.jpg" alt="Видео: обновление базы (в конфигураторе)" /></a>
+<a href="https://www.youtube.com/watch?v=V441Ih3T3NE&t=2010s"><img src="https://img.youtube.com/vi/V441Ih3T3NE/hqdefault.jpg" alt="Видео: обновление базы (в конфигураторе)" width="900" /></a>
 </details>
 
 Самый критичный процесс. Строго соблюдайте последовательность.
