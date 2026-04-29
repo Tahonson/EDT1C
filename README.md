@@ -27,6 +27,29 @@
 - таймкод `37:51` соответствует разделу `1` (`EDT + Напарник`);
 - таймкод `42:42` и best practices соответствуют разделам `2` и `3`.
 
+### Привязка к видео (YouTube)
+
+**Основное видео:** [EDT + MCP + IDE](https://www.youtube.com/watch?v=V441Ih3T3NE)
+
+**Таймкоды с переходом:**
+
+- [00:00 Старт EDT](https://www.youtube.com/watch?v=V441Ih3T3NE&t=0s)
+- [06:35 Интерфейс EDT](https://www.youtube.com/watch?v=V441Ih3T3NE&t=395s)
+- [08:55 Импорт конфигурации и расширений](https://www.youtube.com/watch?v=V441Ih3T3NE&t=535s)
+- [13:34 Git в EDT](https://www.youtube.com/watch?v=V441Ih3T3NE&t=814s)
+- [27:16 Внешняя обработка: создание и импорт](https://www.youtube.com/watch?v=V441Ih3T3NE&t=1636s)
+- [29:55 Доработка расширения](https://www.youtube.com/watch?v=V441Ih3T3NE&t=1795s)
+- [32:53 Экспорт изменений в конфигуратор](https://www.youtube.com/watch?v=V441Ih3T3NE&t=1973s)
+- [33:30 Что делать, если базу меняли в конфигураторе](https://www.youtube.com/watch?v=V441Ih3T3NE&t=2010s)
+- [37:51 1С:Напарник](https://www.youtube.com/watch?v=V441Ih3T3NE&t=2271s)
+- [42:42 Cursor в работе](https://www.youtube.com/watch?v=V441Ih3T3NE&t=2562s)
+
+**Нарезки (опционально):**
+
+- [Нарезка 1: запуск и стартовая настройка](https://www.youtube.com/watch?v=V441Ih3T3NE&t=0s)
+- [Нарезка 2: Git-сценарии](https://www.youtube.com/watch?v=V441Ih3T3NE&t=814s)
+- [Нарезка 3: Напарник и Cursor](https://www.youtube.com/watch?v=V441Ih3T3NE&t=2271s)
+
 ---
 
 ## 1) EDT + Напарник
