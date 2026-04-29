@@ -76,12 +76,6 @@
 - [37:51 1С:Напарник](https://www.youtube.com/watch?v=V441Ih3T3NE&t=2271s)
 - [42:42 Cursor в работе](https://www.youtube.com/watch?v=V441Ih3T3NE&t=2562s)
 
-**Нарезки (опционально):**
-
-- [Нарезка 1: запуск и стартовая настройка](https://www.youtube.com/watch?v=V441Ih3T3NE&t=0s)
-- [Нарезка 2: Git-сценарии](https://www.youtube.com/watch?v=V441Ih3T3NE&t=814s)
-- [Нарезка 3: Напарник и Cursor](https://www.youtube.com/watch?v=V441Ih3T3NE&t=2271s)
-
 ---
 
 <a id="sec-1"></a>
