@@ -80,30 +80,14 @@
 
 <details>
 <summary>Видео-нарезка: старт и настройка EDT</summary>
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/V441Ih3T3NE?start=0&rel=0"
-  title="EDT - старт и настройка"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+[![Видео: старт и настройка EDT](https://img.youtube.com/vi/V441Ih3T3NE/0.jpg)](https://www.youtube.com/watch?v=V441Ih3T3NE&t=0s)
 </details>
 
 ### 1.2 Использование автопродолжения кода (Автокомплит)
 
 <details>
 <summary>Видео-нарезка: 1С:Напарник (автокомплит)</summary>
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/V441Ih3T3NE?start=2271&rel=0"
-  title="1С:Напарник - автокомплит"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+[![Видео: 1С:Напарник (автокомплит)](https://img.youtube.com/vi/V441Ih3T3NE/0.jpg)](https://www.youtube.com/watch?v=V441Ih3T3NE&t=2271s)
 </details>
 
 Алгоритм работы:
@@ -120,15 +104,7 @@
 
 <details>
 <summary>Видео-нарезка: 1С:Напарник (генерация по промпту)</summary>
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/V441Ih3T3NE?start=2271&rel=0"
-  title="1С:Напарник - генерация по промпту"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+[![Видео: 1С:Напарник (генерация по промпту)](https://img.youtube.com/vi/V441Ih3T3NE/0.jpg)](https://www.youtube.com/watch?v=V441Ih3T3NE&t=2271s)
 </details>
 
 Алгоритм генерации:
@@ -209,15 +185,7 @@
 
 <details>
 <summary>Видео-нарезка: Cursor (MCP/IDE)</summary>
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/V441Ih3T3NE?start=2562&rel=0"
-  title="Cursor - MCP/IDE"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+[![Видео: Cursor (MCP/IDE)](https://img.youtube.com/vi/V441Ih3T3NE/0.jpg)](https://www.youtube.com/watch?v=V441Ih3T3NE&t=2562s)
 </details>
 
 Алгоритм настройки рабочей области:
@@ -279,15 +247,7 @@
 
 <details>
 <summary>Видео-нарезка: доработка расширения</summary>
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/V441Ih3T3NE?start=1795&rel=0"
-  title="Доработка расширения"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+[![Видео: доработка расширения](https://img.youtube.com/vi/V441Ih3T3NE/0.jpg)](https://www.youtube.com/watch?v=V441Ih3T3NE&t=1795s)
 </details>
 
 Алгоритм перехвата метода:
@@ -312,15 +272,7 @@
 
 <details>
 <summary>Видео-нарезка: внешняя обработка</summary>
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/V441Ih3T3NE?start=1636&rel=0"
-  title="Внешняя обработка - создание и импорт"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+[![Видео: внешняя обработка](https://img.youtube.com/vi/V441Ih3T3NE/0.jpg)](https://www.youtube.com/watch?v=V441Ih3T3NE&t=1636s)
 </details>
 
 Алгоритм:
@@ -347,15 +299,7 @@
 
 <details>
 <summary>Видео-нарезка: Git в EDT</summary>
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/V441Ih3T3NE?start=814&rel=0"
-  title="Git в EDT"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+[![Видео: Git в EDT](https://img.youtube.com/vi/V441Ih3T3NE/0.jpg)](https://www.youtube.com/watch?v=V441Ih3T3NE&t=814s)
 </details>
 
 Алгоритм инициализации:
@@ -429,15 +373,7 @@
 
 <details>
 <summary>Видео-нарезка: обновление базы (в конфигураторе)</summary>
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/V441Ih3T3NE?start=2010&rel=0"
-  title="Обновление базы - сценарий изменений в конфигураторе"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+[![Видео: обновление базы (в конфигураторе)](https://img.youtube.com/vi/V441Ih3T3NE/0.jpg)](https://www.youtube.com/watch?v=V441Ih3T3NE&t=2010s)
 </details>
 
 Самый критичный процесс. Строго соблюдайте последовательность.
