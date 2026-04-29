@@ -64,11 +64,47 @@
 4. Шаг 4. Плагин Напарника. В EDT откройте `Help -> Install New Software`, добавьте репозиторий плагина Напарника и установите плагин.
 5. Шаг 5. Авторизация. Перезапустите EDT, затем в появившемся окне выполните авторизацию под УЗ портала ИТС.
 
+**Скриншоты (замените на ваши):**
+
+1. Плагин Напарника (установка/чекбокс):
+
+![Скриншот: установка 1С:Напарника (замените)](docs/screens/shot-naparnik-plugin.png)
+
+2. Авторизация Напарника:
+
+![Скриншот: авторизация 1С:Напарника (замените)](docs/screens/shot-naparnik-auth.png)
+
 Важно:
 - EDT имеет строгие требования к версии платформы; иначе проект может не открыться/не собраться.
 - Первый импорт конфигурации обычно занимает заметно больше времени, чем последующие обновления.
 
+<details>
+<summary>Видео-нарезка: старт и настройка EDT</summary>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/V441Ih3T3NE?start=0&rel=0"
+  title="EDT - старт и настройка"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+</details>
+
 ### 1.2 Использование автопродолжения кода (Автокомплит)
+
+<details>
+<summary>Видео-нарезка: 1С:Напарник (автокомплит)</summary>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/V441Ih3T3NE?start=2271&rel=0"
+  title="1С:Напарник - автокомплит"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+</details>
 
 Алгоритм работы:
 
@@ -76,7 +112,24 @@
 2. Шаг 2. Сделайте паузу (1–2 секунды). Напарник предложит код серым цветом (ghost text).
 3. Шаг 3. Нажмите `Tab` для принятия всего блока или `Ctrl+Right` (зависит от настроек) для принятия по словам.
 
+**Скриншот (замените): ghost text в EDT:**
+
+![Скриншот: ghost text (замените)](docs/screens/shot-edt-ghost-text.png)
+
 ### 1.3 Генерация кода по промпту
+
+<details>
+<summary>Видео-нарезка: 1С:Напарник (генерация по промпту)</summary>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/V441Ih3T3NE?start=2271&rel=0"
+  title="1С:Напарник - генерация по промпту"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+</details>
 
 Алгоритм генерации:
 
@@ -128,6 +181,10 @@
 3. Добавьте MCP-сервер и проверьте, что есть нужные вам права (read/write там, где это разрешено).
 4. Протестируйте 2–3 реальных сценария: поиск по коду, разбор структуры проекта, правки и git-операции (в рамках разрешений).
 
+**Скриншот (замените): настройки MCP в Cursor:**
+
+![Скриншот: настройки MCP (замените)](docs/screens/shot-cursor-mcp-settings.png)
+
 Шаблон `mcp.json`:
 
 ```json
@@ -149,6 +206,20 @@
 Для критичных изменений всегда делайте ручную проверку и прогон сценариев.
 
 ### 3.2 Настройка плагинов, MCP, правил (rules)
+
+<details>
+<summary>Видео-нарезка: Cursor (MCP/IDE)</summary>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/V441Ih3T3NE?start=2562&rel=0"
+  title="Cursor - MCP/IDE"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+</details>
+
 Алгоритм настройки рабочей области:
 
 1. Установите плагин подсветки 1С в Cursor (например: `1C (BSL) Language Support` или аналогичный).
@@ -206,6 +277,19 @@
 
 ### 4.2 Доработка функционала расширения
 
+<details>
+<summary>Видео-нарезка: доработка расширения</summary>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/V441Ih3T3NE?start=1795&rel=0"
+  title="Доработка расширения"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+</details>
+
 Алгоритм перехвата метода:
 
 1. В EDT добавьте нужный объект в расширение.
@@ -225,6 +309,19 @@
 5. Настройку полей и группировок выполняйте визуально в EDT, затем проверьте отчет на реальных данных.
 
 ### 4.4 Разработка внешней обработки
+
+<details>
+<summary>Видео-нарезка: внешняя обработка</summary>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/V441Ih3T3NE?start=1636&rel=0"
+  title="Внешняя обработка - создание и импорт"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+</details>
 
 Алгоритм:
 
@@ -247,6 +344,19 @@
 ## 5) Работа с Git
 
 ### 5.1 Подключение проекта к Git с нуля
+
+<details>
+<summary>Видео-нарезка: Git в EDT</summary>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/V441Ih3T3NE?start=814&rel=0"
+  title="Git в EDT"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+</details>
 
 Алгоритм инициализации:
 
@@ -283,6 +393,11 @@
 3. Подготовка к коммиту (синхронизация/сверка):
    - в EDT откройте Git Staging/Синхронизация
    - внимательно проверьте измененные файлы и отсутствие случайных массовых переформатирований метаданных
+
+**Скриншот (замените): Git Staging/Синхронизация в EDT:**
+
+![Скриншот: Git Staging (замените)](docs/screens/shot-git-staging.png)
+
 4. Коммит:
    - `git add .`
    - `git commit -m "feat: Реализована логика по задаче TASK-ID"`
@@ -312,6 +427,19 @@
 
 ### 5.5 Алгоритм обновления базы (Слияние с веткой поставщика)
 
+<details>
+<summary>Видео-нарезка: обновление базы (в конфигураторе)</summary>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/V441Ih3T3NE?start=2010&rel=0"
+  title="Обновление базы - сценарий изменений в конфигураторе"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+</details>
+
 Самый критичный процесс. Строго соблюдайте последовательность.
 
 Исходные данные: у вас есть ветка `vendor` (чистая конфигурация поставщика) и ветка `master/develop` (ваша доработка).
@@ -334,6 +462,14 @@
    - если конфликты есть — в EDT откройте Merge Tool по конфликтному метаданному объекту
    - перенесите нужные блоки кода и реквизиты в центральную панель, сохраните
    - в терминале завершите merge после разрешения конфликтов (при необходимости отдельным commit)
+
+**Скриншот (замените): конфликты метаданных в дереве EDT:**
+
+![Скриншот: конфликты (замените)](docs/screens/shot-merge-conflicts-tree.png)
+
+**Скриншот (замените): Merge Tool (3 панели):**
+
+![Скриншот: Merge Tool (замените)](docs/screens/shot-merge-tool-window.png)
 5. Завершение merge-коммита:
    - `git commit -m "merge: Слияние релиза X.X.X.X с доработками"`
 6. Обновление базы:
